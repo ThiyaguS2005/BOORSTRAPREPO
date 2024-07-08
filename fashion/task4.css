@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+body{
+    background-image: url(https://s1.1zoom.me/big3/928/Men_Two_Shadow_Brown_haired_Smile_Costume_554550_6200x4110.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display{
+    padding-left: 30%;
+    padding-right: 50%;
+    margin-top: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+#pink{
+    background-color: yellow;
+    outline: none;
+    border: none;
+    color: white;
+}
+button{
+    background-color: yellow;
+
+}
+#blue{
+    /* background-color: deepskyblue; */
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: 400;
+}
+h1{
+    color: deepskyblue;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.women{
+    color: deeppink;
+}

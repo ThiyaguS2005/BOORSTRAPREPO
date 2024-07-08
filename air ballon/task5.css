@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://wallpaperswide.com/download/hot_air_balloon_ride_fantasy-wallpaper-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    padding: 25px;
+}
+h5{
+    color: orange;
+}
+h4{
+    color: orange;
+}
+.img{
+    position: absolute;
+    left: 0px;
+    opacity: 0.7;
+    z-index: -1;
+    width: 300px;
+    height: 500px;
+    image-rendering: initiala;
+}
+.img2{
+    height: 30px;
+    width: 30px;
+}
+.main{
+    display: flex;
+    margin-top: 100px;
+}
+.div1{
+    background-image: url(https://wallpaperswide.com/download/hot_air_balloon_ride_fantasy-wallpaper-1920x1080.jpg);
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+}
+.div2{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+.display{
+    display: flex;
+    padding: 20px;
+}
+.login{
+    margin-left: -220px;
+}
+input{
+    width: 300px;
+}
+a{
+    margin-left: -100px;
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: rgb(105, 28, 105);
+    margin-right: -100px;
+}
+.space{
+    justify-content: space-between;
+}
